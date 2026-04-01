@@ -11,25 +11,41 @@ Welcome to my portfolio! I am a Digital Marketing student at triOS College with 
 
 ## 🔹 Projects
 
-### 1. SEO Project (Rideau Tours)
-- Conducted keyword research and competitor analysis
-- Conducted keyword research and competitor analysis
-- Optimized on-page SEO elements (meta tags, headings, content)
-- Performed site audits and identified technical SEO issues
-- Analyzed website performance and page speed
-  **Tools Used:**
-- SEObility (site audit & SEO analysis)
-- Google PageSpeed Insights (performance optimization)
-- WordStream (keyword research & PPC insights)
-- Google Analytics & Search Console
+### 1. SEO & Search Optimization: Rideau Tours
+- On-Page SEO (meta tags, headings, content optimization)
+- Technical SEO (site audits, performance analysis)
+- Keyword Research & Competitive Analysis
+- Metadata Optimization & Website Structure Analysis
+
+**Tools:** Google Search Console, Google Analytics, SEMrush, Ubersuggest, SEObility, Google PageSpeed Insights
+
+### 2. ### 3. GA4 Analytics & Exploration
+
+- Conducted advanced analysis using GA4 on the Google Merchandise Store to evaluate user behavior, traffic performance, and conversion patterns  
+- Identified that desktop users—especially from organic traffic—generated the highest revenue and showed stronger purchase intent :contentReference[oaicite:0]{index=0}  
+- Discovered a major drop-off (75–80%) between session start and product view, highlighting issues in early user engagement :contentReference[oaicite:1]{index=1}  
+- Performed funnel, path, and segment overlap analysis to understand user journeys and identify friction points in the conversion process :contentReference[oaicite:2]{index=2}  
+- Analyzed audience demographics and geo-location data, revealing strong engagement from users aged 18–34 and key traffic from the U.S., India, and Canada :contentReference[oaicite:3]{index=3}  
+
+**Key Insights:**
+- Desktop + organic traffic delivers the highest conversions and revenue  
+- Mobile users generate high traffic but significantly lower conversion rates  
+- Majority of users drop off before interacting with products  
+- Low retention rates indicate limited repeat engagement  
+
+**Strategic Recommendations:**
+- Optimize mobile user experience to reduce drop-off and improve conversions  
+- Improve homepage design and product visibility to guide users into the funnel  
+- Shift budget toward high-performing desktop campaigns  
+- Implement retargeting and win-back email campaigns to improve retention  
 
 
-### 2. Social Media Strategy (Bright Horizons Digital)
+### 3. Social Media Strategy (Bright Horizons Digital)
 - Created content calendar and SMART goals
 - Designed posts using Canva
 - Developed KPI tracking
 
-### 3. Content Creation (YouTube Shorts)
+### 4. Content Creation (YouTube Shorts)
 - Created engaging short-form videos
 - Focused on storytelling and audience retention
 
