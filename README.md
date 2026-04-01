@@ -35,7 +35,7 @@ Welcome to my portfolio! I am a Digital Marketing student at triOS College with 
 - Implement local SEO strategies (Google Business Profile, reviews, citations)  
 **Tools:** Google Search Console, Google Analytics, SEMrush, Ubersuggest, SEObility, Google PageSpeed Insights
 
-### 2. ### 3. GA4 Analytics & Exploration
+### 2. GA4 Analytics & Exploration
 
 - Conducted advanced analysis using GA4 on the Google Merchandise Store to evaluate user behavior, traffic performance, and conversion patterns  
 - Identified that desktop users—especially from organic traffic—generated the highest revenue and showed stronger purchase intent :contentReference[oaicite:0]{index=0}  
